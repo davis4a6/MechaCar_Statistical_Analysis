@@ -31,7 +31,11 @@ The linear model does predict mpg of MechaCar prototypes effectively because the
 
 The design specifciation for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI). 
 
+![Alt text](Images/Total%20Summary.PNG)
+
 All Manufacturing Lots: When looking at the data for all manufacturing lots, the variance of the coils is 62.29 PSI. This does not exceed the 100 PSI requirement, so it does meet the design specification.
+
+![Alt text](Images/Lot%20Summary.PNG)
 
 Lot 1: The variance of the coils for Lot 1 is 0.98 PSI. This is within the 100 PSI requirement and does meet the design specification.
 
